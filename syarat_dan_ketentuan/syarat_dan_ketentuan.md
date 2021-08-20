@@ -7,7 +7,7 @@ Aturan Penggunaan ini mengatur penggunaan seluruh layanan yang terdapat pada   y
 
 Aturan pengguna ini merupakan bentuk kesepakatan yang merupakan perjanjian mengikat antara pengguna dengan Toko Ladang, Pengguna secara sadar dan sukarela menyetujui ketentuan ini untuk menggunakan layanan di  SIPlah tokoladang.co.id. 
 
-## 1. PENDAHULUAN 
+## PENDAHULUAN 
 1. Akun adalah data tentang Pengguna, minimum terdiri dari username, password,  nomor telepon, dan email yang wajib diisi oleh Pengguna Terdaftar.
 
 2. Aturan Penggunaan adalah perjanjian antara Pengguna dan SIPlah    tokoladang.co.id yang berisi seperangkat peraturan yang mengatur hak, kewajiban, tanggung jawab Pengguna dan SIPlah tokoladang.co.id, serta tata cara penggunaan sistem layanan .
