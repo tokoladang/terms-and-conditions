@@ -56,16 +56,13 @@
 
 ### 1. Apa saja tipe pembayaran SIPLah-TOKOLADANG?
 > SIPLah-TOKOLADANG menyediakan beberapa metode pembayaran:
-
 > A. Virtual Account
   > 1. BRIVA ( BRI Virtual Account)
-
 > B. Transfer Rekening
   > 1. Bank Jatim
   > 2. Bank Jateng
-
-> Semua metode pembayaran tetap harus mengunggah (upload) bukti pembayaran.
-pilihan metode pembayaran bisa berubah (berkurang/bertambah) sewaktu-waktu.
+>
+> Semua metode pembayaran tetap harus mengunggah (upload) bukti pembayaran. pilihan metode pembayaran bisa berubah (berkurang/bertambah) sewaktu-waktu.
 
 ### 2. Apakah Satuan Pendidikan bisa membayar dari beberapa tagihan menjadi satu kali transfer pada SIPLah-TOKOLADANG?	
 > Satuan Pendidikan tidak bisa membayar dari beberapa tagihan menjadi satu kali transfer, pembayaran harus ditransfer sesuai dengan nomor masing-masing invoice dan jumlah pada invoice tersebut.
@@ -75,7 +72,6 @@ pilihan metode pembayaran bisa berubah (berkurang/bertambah) sewaktu-waktu.
 > - 50jt < total belanja < 200jt
 > maka pembeli harus melakukan perbandingan, minimal 1 merchant pembanding
 ( 1 merchant utama dan 1 merchant pembanding).
-
 > - total belanja > 200jt
 > maka pembeli harus melakukan perbandingan, minimal 2 merchant pembanding
 ( 1 merchant utama dan 2 merchant pembanding)
@@ -120,14 +116,14 @@ SIPLah-TOKOLADANG adalah  sebagai berikut :
 
 ### 1. Siapa yang membayar pajak ketika terjadi Satuan Pendidikanan di SIPLah-TOKOLADANG?	
 > Pajak akan dibayar saat Satuan Pendidikanan berbelanja di SIPLah-TOKOLADANG oleh : 
-> - Satuan Pendidikan
-> - penyedia
+> 1. Satuan Pendidikan
+> 2. penyedia
 
 ### 2. Bagaimana sistem pemungutan pajak ketika melakukan transaksi di SIPLah-TOKOLADANG?
-> - sekolah bisa langsung memotong sebelum pembayaran dengan syarat mengupload juga bukti bayar pajaknya,
-> - dibayar secara utuh oleh Satuan Pendidikan yang nantinya pajak akan dibayarkan penyedia
-> - Jika Penyedia yang membayarkan Pajak maka Penyedia berkewajiban memberikan faktur ke Satuan Pendidikan yang dilakukan di luar sistem
-> - pembayaran pajak dilakukan diluar sistem SIPLah
+> 1. sekolah bisa langsung memotong sebelum pembayaran dengan syarat mengupload juga bukti bayar pajaknya,
+> 2. dibayar secara utuh oleh Satuan Pendidikan yang nantinya pajak akan dibayarkan penyedia
+> 3. Jika Penyedia yang membayarkan Pajak maka Penyedia berkewajiban memberikan faktur ke Satuan Pendidikan yang dilakukan di luar sistem
+> 5. pembayaran pajak dilakukan diluar sistem SIPLah
 
 ### 3. Apakah semua barang di SIPLah-TOKOLADANG sudah termasuk pajak?	
 > 1. Mengikuti atribut data pada barang/jasa yang diupload. jika tercentang PPN maka barang/jasa dikenai pajak, begitu sebaliknya
